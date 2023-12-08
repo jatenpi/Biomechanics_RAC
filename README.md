@@ -1,3 +1,3 @@
-# Biomechaniklabor_RAC
-Ziel ist es in diesem GitHub Projekt standartisierten Code für die 
-Arbeitsprozesse des Biomechaniklabors bereit zu stellen
+# Biomechanics_RAC
+The aim of this GitHub project is to provide standardized code for the 
+work processes of the biomechanics laboratory
